@@ -3,20 +3,20 @@
   font-family: 'Mustafa-Font';
   font-style: normal;
   font-weight: 400;
-  src: url(https://www.kurdfonts.com/dl/tmp/5025689/K24KurdishBold-Bold.ttf) format('truetype');
+  src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
 }*/
 /* latin-ext*/
 @font-face {
   font-family: 'Mustafa-Font';
   font-style: normal;
   font-weight: 400;
-  src: url(https://www.kurdfonts.com/dl/tmp/5025689/K24KurdishBold-Bold.ttf) format('truetype');
+  src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
 } 
 /* latin */
 @font-face {
   font-family: 'Mustafa-Font';
   font-style: normal;
   font-weight: 400;
-  src: url(https://www.kurdfonts.com/dl/tmp/5025689/K24KurdishBold-Bold.ttf) format('truetype');
+  src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
 }
 

@@ -4,6 +4,7 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+01A0-01A1, U+20AB
 }*/
 /* latin-ext*/
 @font-face {
@@ -11,6 +12,7 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+01A0-01A1, U+20AB
 } 
 /* latin */
 @font-face {
@@ -18,5 +20,6 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://rashwan957.github.io/site-sos/css/K24KurdishBold-Bold.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+01A0-01A1, U+20AB
 }
 

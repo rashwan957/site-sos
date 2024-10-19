@@ -1,6 +1,6 @@
 
 	 var obj={"a little":	["ንእሽቶይ"	,"ቁሩብ"	,"ውሕድ"]	,
-"a long time":	"ነዊሕ ግዝ"			,
+"word":	"وشە"			,
 "hi":	"سڵاو"			,
 "abandon":	["ገደፈ"	,"ረጥረጠ"]		,
 "abandonment":	"ርጥረጣ"			,

@@ -12,7 +12,7 @@
 "abruptly":"ብጋህዲ"			,
 "abscess":	"ሓገል"	,
 "absence":	"ብኩራት"		,
-"absent":	"ብኹር"			,
+"hawsar":	"دەریا"			,
 "absent ":	"ቦኾረ"			,
 "absent minded":	"ዝንጉዕ"			,
 "absent mindedness":	"ምዝንጋዕ"			,

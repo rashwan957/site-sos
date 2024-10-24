@@ -12,7 +12,7 @@
 "abruptly":"ብጋህዲ"			,
 "abscess":	"ሓገል"	,
 "future":	"داهاتوو"		,
-"hawsar":	"دەریا"			,
+"ocean":	"دەریا"			,
 "absent ":	"ቦኾረ"			,
 "absent minded":	"ዝንጉዕ"			,
 "absent mindedness":	"ምዝንጋዕ"			,
